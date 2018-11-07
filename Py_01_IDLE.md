@@ -10,7 +10,6 @@ liest sich dein Code auch wie normales Englisch.
 #### Python besteht aus:
 * Einer Syntax, Schreibweise
 * Einer Semantik, Funktionsweise
-Wobei du über die Schreibweise die Funktionsweise bestimmst.
 
 #### Ein einfaches Python Programm
 Öffne den Terminal (cmd+alt+T)
