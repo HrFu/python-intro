@@ -11,6 +11,9 @@ liest sich dein Code auch wie normales Englisch.
 * Einer Syntax, Schreibweise
 * Einer Semantik, Funktionsweise
 
+Über die Syntax bestimmst du die Semantik. 
+Also hat alles was du in einem Python Programm schreibst einen
+Sinn.
 #### Ein einfaches Python Programm
 Öffne den Terminal (cmd+alt+T)
 und gebe `sudo idle3` ein. 
