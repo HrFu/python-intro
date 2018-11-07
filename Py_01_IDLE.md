@@ -1,5 +1,4 @@
 # Was ist Python
-####Vorraussetzungen:
 * Du kannst mit dem Terminal umgehen
 * Du kannst im Terminal Programme starten und navigieren
 
@@ -26,4 +25,6 @@ aus.
 >>>print("Hello, World!")
 Hello, World!
 ```
-Alles was 
+Alles was hinter den `>>>` steht must du eingeben, alles andere
+ist die Ausgabe oder die IDLE.
+
